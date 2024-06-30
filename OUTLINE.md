@@ -65,3 +65,50 @@
       surface of that library, and make it as pleasant to use as possible.
 - ^ That is to say, libraries are the only solution to the above system of
     equations.
+- Structuring applications
+    - Applications should always be the barest wrapper around a library as
+      possible.
+    - Applications may load configuration and connect some UI elements to
+      library code. And nothing else.
+    - The meat of your code should be general purpose library code, some of
+      which gets composed together to make the application. But the library
+      comes first and is significantly more capable than the application ever
+      provides.
+    - Applications are hard to test, with all the UI stuff you need to operate
+      on and automate. Libraries are easy---just make the calls and check the
+      output.
+- Structuring libraries
+    - Libraries need not correspond to distinct compilation packages, but
+      instead a strongly connected cluster of modules which exist to model some
+      particular domain.
+    - A software system is likely made up of many subsystems, each of which is
+      modeled by a library.
+    - If those independent subsystems need to interact, that too should be a
+      library made up of components of the independent systems.
+- Think more about "what" than "how"
+    - WHAT am I trying to build? WHAT things make sense to model? WHAT
+      invariants should hold here?
+    - These are the crucial questions. They are the specification behind the
+      "how do I make that happen?"
+    - Focus on getting the "what" right; this gives you flexibility in the "how".
+    - Most programming is all about how! But how to what? It's unclear! You have
+      to build up a mental model of the what implicitly from the how.
+- A library models a consistent and connected set of "what"s.
+    - Made up of TYPES, which give us nouns that we can string functions
+      between.
+    - And combinators, which create and transform values of TYPES into other
+      TYPES.
+    - Notice already we have given a more general solution than what is standard
+      in the literature. The much heralded MVC pattern is a special case of the
+      separation of application (view) from library (model and controller),
+      where the model is the types and the controllers are (often poorly
+      modeled) functions.
+- What are the properties of a good library?
+    - It has a meaning. This is the specification/what from which all
+      correctness comes downstream. This meaning gives rise to a mental model.
+    - It solves the general problem. It is more useful than the original use
+      case.
+    - It is an abstract solution to the problem. Existing constraints exist in
+      the problem domain, not the implementation.
+    - It is impossible to use wrong. Every possible well-typed combination of
+      functions is meaningful. Meaningless expressions are not well-typed.
