@@ -1,0 +1,58 @@
+cabal-version: 2.2
+
+-- This file has been generated from package.yaml by hpack version 0.36.0.
+--
+-- see: https://github.com/sol/hpack
+
+name:           enstructer
+version:        0.1.0.0
+description:    Please see the README on GitHub at <https://github.com/isovector/enstructer#readme>
+homepage:       https://github.com/isovector/enstructer#readme
+bug-reports:    https://github.com/isovector/enstructer/issues
+author:         Sandy Maguire
+maintainer:     sandy@sandymaguire.me
+copyright:      2024 Sandy Maguire
+license:        BSD-3-Clause
+license-file:   LICENSE
+build-type:     Simple
+extra-source-files:
+    README.md
+    CHANGELOG.md
+
+source-repository head
+  type: git
+  location: https://github.com/isovector/enstructer
+
+library
+  exposed-modules:
+      Lib
+  other-modules:
+      Paths_enstructer
+  autogen-modules:
+      Paths_enstructer
+  hs-source-dirs:
+      src
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      algebraic-graphs
+    , base >=4.7 && <5
+    , containers
+    , megaparsec
+  default-language: Haskell2010
+
+executable enstructer-exe
+  main-is: Main.hs
+  other-modules:
+      Paths_enstructer
+  autogen-modules:
+      Paths_enstructer
+  hs-source-dirs:
+      app
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      algebraic-graphs
+    , base >=4.7 && <5
+    , containers
+    , enstructer
+    , megaparsec
+  default-language: Haskell2010
