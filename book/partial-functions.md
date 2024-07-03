@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: partial-functions
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- antipatterns
+- either
+- functions
+- maybe
+- theory
+smaller: []
 see-also: []
-name: "flexibility"
+name: "partial-functions"
 teaser: ""
 ---
 

@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: alternatives
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-typeclasses
 smaller:
-- open-world-assumption
+- either
+- lists
+- maybe
 see-also: []
-name: "flexibility"
+name: "alternatives"
 teaser: ""
 ---
 

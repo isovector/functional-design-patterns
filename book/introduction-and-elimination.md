@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: introduction-and-elimination
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- concepts
+smaller: []
 see-also: []
-name: "flexibility"
+name: "introduction-and-elimination"
 teaser: ""
 ---
 

@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: trampolining
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- composition-of-functions
+- cps
+- tricks
 smaller:
-- open-world-assumption
+- monads
 see-also: []
-name: "flexibility"
+name: "trampolining"
 teaser: ""
 ---
 

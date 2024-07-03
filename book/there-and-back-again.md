@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: there-and-back-again
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- isomorphisms
+- property-tests
+smaller: []
 see-also: []
-name: "flexibility"
+name: "there-and-back-again"
 teaser: ""
 ---
 

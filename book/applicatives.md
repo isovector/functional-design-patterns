@@ -1,14 +1,17 @@
 ---
-id: flexibility
+id: applicatives
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-typeclasses
+- compose-type
+- effects
+- parallel-over-sequential
+- traversals
 smaller:
-- open-world-assumption
+- validation
 see-also: []
-name: "flexibility"
+name: "applicatives"
 teaser: ""
 ---
 

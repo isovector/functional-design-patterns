@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: effects
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
+- purity
 smaller:
-- open-world-assumption
+- applicatives
+- monads
+- monads-are-overused
 see-also: []
-name: "flexibility"
+name: "effects"
 teaser: ""
 ---
 

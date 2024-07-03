@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: computing-is-not-about-computers
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
 smaller:
-- open-world-assumption
+- thinking-about-performance-gets-in-the-way
 see-also: []
-name: "flexibility"
+name: "computing-is-not-about-computers"
 teaser: ""
 ---
 

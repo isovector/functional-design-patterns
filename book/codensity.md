@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: codensity
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- initial-encodings
+- yoneda-embeddings
+smaller: []
 see-also: []
-name: "flexibility"
+name: "codensity"
 teaser: ""
 ---
 

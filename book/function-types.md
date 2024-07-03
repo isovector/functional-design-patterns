@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: function-types
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- types
+smaller: []
 see-also: []
-name: "flexibility"
+name: "function-types"
 teaser: ""
 ---
 

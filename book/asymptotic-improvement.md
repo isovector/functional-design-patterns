@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: asymptotic-improvement
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- tricks
 smaller:
-- open-world-assumption
+- yoneda-embeddings
 see-also: []
-name: "flexibility"
+name: "asymptotic-improvement"
 teaser: ""
 ---
 

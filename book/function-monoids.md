@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: function-monoids
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- monoids
 smaller:
-- open-world-assumption
+- endos
+- pointwise-monoid
 see-also: []
-name: "flexibility"
+name: "function-monoids"
 teaser: ""
 ---
 

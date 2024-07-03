@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: nonregular-recursion
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- tools
 smaller:
-- open-world-assumption
+- finger-trees
+- precomposition
 see-also: []
-name: "flexibility"
+name: "nonregular-recursion"
 teaser: ""
 ---
 

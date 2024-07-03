@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: if-it-compiles-it-works
 confidence: 7
 tags: []
 bigger:
-- desiderata
+- illegal-states-are-unrepresentable
+- philosophy
 - simplicity
-smaller:
-- open-world-assumption
+smaller: []
 see-also: []
-name: "flexibility"
+name: "if-it-compiles-it-works"
 teaser: ""
 ---
 

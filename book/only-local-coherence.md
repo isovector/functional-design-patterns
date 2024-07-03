@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: only-local-coherence
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
 - open-world-assumption
+smaller: []
 see-also: []
-name: "flexibility"
+name: "only-local-coherence"
 teaser: ""
 ---
 

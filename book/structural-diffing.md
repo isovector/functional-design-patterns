@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: structural-diffing
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- derive-performance-from-the-problem
+- purity
+- tricks
+smaller: []
 see-also: []
-name: "flexibility"
+name: "structural-diffing"
 teaser: ""
 ---
 

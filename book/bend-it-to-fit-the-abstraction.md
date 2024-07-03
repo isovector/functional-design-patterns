@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: bend-it-to-fit-the-abstraction
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- reusable-vocabulary
+smaller: []
 see-also: []
-name: "flexibility"
+name: "bend-it-to-fit-the-abstraction"
 teaser: ""
 ---
 

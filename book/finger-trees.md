@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: finger-trees
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- acccumulating-caches
+- nonregular-recursion
+smaller: []
 see-also: []
-name: "flexibility"
+name: "finger-trees"
 teaser: ""
 ---
 

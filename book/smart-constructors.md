@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: smart-constructors
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- illegal-states-are-unrepresentable
+- modeling-with-types
+- tools
+smaller: []
 see-also: []
-name: "flexibility"
+name: "smart-constructors"
 teaser: ""
 ---
 

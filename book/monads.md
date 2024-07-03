@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: monads
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-typeclasses
+- effects
+- parallel-over-sequential
+- trampolining
 smaller:
-- open-world-assumption
+- monads-are-overused
 see-also: []
-name: "flexibility"
+name: "monads"
 teaser: ""
 ---
 

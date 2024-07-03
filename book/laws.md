@@ -1,14 +1,17 @@
 ---
-id: flexibility
+id: laws
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
+- correctness
+- empathy
+- property-tests
 smaller:
-- open-world-assumption
+- algebraic-properties
+- reusable-vocabulary
 see-also: []
-name: "flexibility"
+name: "laws"
 teaser: ""
 ---
 

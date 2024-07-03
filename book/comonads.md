@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: comonads
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- common-typeclasses
+- infinite-data-structures
+smaller: []
 see-also: []
-name: "flexibility"
+name: "comonads"
 teaser: ""
 ---
 

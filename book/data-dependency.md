@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: data-dependency
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- theory
 smaller:
-- open-world-assumption
+- monads-are-overused
+- parallel-over-sequential
 see-also: []
-name: "flexibility"
+name: "data-dependency"
 teaser: ""
 ---
 

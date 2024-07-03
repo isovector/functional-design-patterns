@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: precomposition
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- higher-order-functions
+- nonregular-recursion
+- tricks
+smaller: []
 see-also: []
-name: "flexibility"
+name: "precomposition"
 teaser: ""
 ---
 

@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: validation
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- applicatives
+- monoids
+smaller: []
 see-also: []
-name: "flexibility"
+name: "validation"
 teaser: ""
 ---
 

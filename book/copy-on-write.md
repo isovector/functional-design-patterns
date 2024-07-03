@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: copy-on-write
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- sharing
+- tricks
+smaller: []
 see-also: []
-name: "flexibility"
+name: "copy-on-write"
 teaser: ""
 ---
 

@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: problems
 confidence: 7
 tags: []
-bigger:
-- desiderata
-- simplicity
+bigger: []
 smaller:
-- open-world-assumption
+- parsers
+- structural-problems
 see-also: []
-name: "flexibility"
+name: "problems"
 teaser: ""
 ---
 

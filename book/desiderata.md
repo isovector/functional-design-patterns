@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: desiderata
 confidence: 7
 tags: []
-bigger:
-- desiderata
-- simplicity
+bigger: []
 smaller:
-- open-world-assumption
+- correctness
+- empathy
+- flexibility
+- simplicity
 see-also: []
-name: "flexibility"
+name: "desiderata"
 teaser: ""
 ---
 

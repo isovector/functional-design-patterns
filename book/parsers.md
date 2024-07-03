@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: parsers
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- combinator-libraries
+- problems
+smaller: []
 see-also: []
-name: "flexibility"
+name: "parsers"
 teaser: ""
 ---
 

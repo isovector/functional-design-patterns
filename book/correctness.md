@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: correctness
 confidence: 7
 tags: []
 bigger:
 - desiderata
-- simplicity
 smaller:
-- open-world-assumption
+- composition-of-correctness
+- illegal-states-are-unrepresentable
+- laws
+- simplicity
 see-also: []
-name: "flexibility"
+name: "correctness"
 teaser: ""
 ---
 

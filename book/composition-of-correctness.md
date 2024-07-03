@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: composition-of-correctness
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- composition
+- correctness
 smaller:
-- open-world-assumption
+- combinator-libraries
 see-also: []
-name: "flexibility"
+name: "composition-of-correctness"
 teaser: ""
 ---
 

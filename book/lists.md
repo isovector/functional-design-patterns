@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: lists
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- alternatives
+- common-types
+smaller: []
 see-also: []
-name: "flexibility"
+name: "lists"
 teaser: ""
 ---
 

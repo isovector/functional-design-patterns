@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: syntax-and-semantics
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
 smaller:
-- open-world-assumption
+- denotations
+- separate-interface-and-implementation
 see-also: []
-name: "flexibility"
+name: "syntax-and-semantics"
 teaser: ""
 ---
 

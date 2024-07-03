@@ -76,7 +76,8 @@ main = do
   for_ (G.vertexList g) $ \v -> do
     let ins = toList $ G.preSet  v g
         outs = toList $ G.postSet  v g
-    putStrLn $ unlines
+    let fp = "../book/" <> v <> ".md"
+    writeFile fp  $ unlines
       [ "---"
       , "id: " <> v
       , "confidence: 7"

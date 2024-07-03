@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: denotations
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- syntax-and-semantics
 smaller:
-- open-world-assumption
+- composition-of-understanding
 see-also: []
-name: "flexibility"
+name: "denotations"
 teaser: ""
 ---
 

@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: unsafe-coerce-the-existential
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- antipatterns
+- existentializing
+smaller: []
 see-also: []
-name: "flexibility"
+name: "unsafe-coerce-the-existential"
 teaser: ""
 ---
 

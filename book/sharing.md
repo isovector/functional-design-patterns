@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: sharing
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- purity
+- thinking-about-performance-gets-in-the-way
 smaller:
-- open-world-assumption
+- copy-on-write
 see-also: []
-name: "flexibility"
+name: "sharing"
 teaser: ""
 ---
 

@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: infinite-data-structures
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- theory
 smaller:
-- open-world-assumption
+- comonads
 see-also: []
-name: "flexibility"
+name: "infinite-data-structures"
 teaser: ""
 ---
 

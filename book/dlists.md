@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: dlists
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- yoneda-embeddings
 smaller:
-- open-world-assumption
+- endos
 see-also: []
-name: "flexibility"
+name: "dlists"
 teaser: ""
 ---
 

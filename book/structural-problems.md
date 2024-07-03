@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: structural-problems
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- problems
 smaller:
-- open-world-assumption
+- structural-programming
 see-also: []
-name: "flexibility"
+name: "structural-problems"
 teaser: ""
 ---
 

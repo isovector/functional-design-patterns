@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: traversals
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-iterations
 smaller:
-- open-world-assumption
+- applicatives
 see-also: []
-name: "flexibility"
+name: "traversals"
 teaser: ""
 ---
 

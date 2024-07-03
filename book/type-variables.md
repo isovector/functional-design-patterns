@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: type-variables
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- illegal-states-are-unrepresentable
+- tools
+smaller: []
 see-also: []
-name: "flexibility"
+name: "type-variables"
 teaser: ""
 ---
 

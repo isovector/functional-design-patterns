@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: composition-of-understanding
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- composition
+- denotations
 smaller:
-- open-world-assumption
+- combinator-libraries
 see-also: []
-name: "flexibility"
+name: "composition-of-understanding"
 teaser: ""
 ---
 

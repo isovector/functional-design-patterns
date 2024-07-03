@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: testing
 confidence: 7
 tags: []
-bigger:
-- desiderata
-- simplicity
+bigger: []
 smaller:
-- open-world-assumption
+- property-tests
 see-also: []
-name: "flexibility"
+name: "testing"
 teaser: ""
 ---
 

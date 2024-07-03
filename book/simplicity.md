@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: simplicity
 confidence: 7
 tags: []
 bigger:
+- correctness
 - desiderata
-- simplicity
 smaller:
-- open-world-assumption
+- flexibility
+- if-it-compiles-it-works
 see-also: []
-name: "flexibility"
+name: "simplicity"
 teaser: ""
 ---
 

@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: final-encodings
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- theory
 smaller:
-- open-world-assumption
+- cps
 see-also: []
-name: "flexibility"
+name: "final-encodings"
 teaser: ""
 ---
 

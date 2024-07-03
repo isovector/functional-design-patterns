@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: semilattices
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- common-typeclasses
+smaller: []
 see-also: []
-name: "flexibility"
+name: "semilattices"
 teaser: ""
 ---
 

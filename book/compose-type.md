@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: compose-type
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- types
 smaller:
-- open-world-assumption
+- applicatives
+- functors
+- selectives
 see-also: []
-name: "flexibility"
+name: "compose-type"
 teaser: ""
 ---
 

@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: existentializing
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- quantifiers
 smaller:
-- open-world-assumption
+- existentials-as-arguments
+- unsafe-coerce-the-existential
 see-also: []
-name: "flexibility"
+name: "existentializing"
 teaser: ""
 ---
 

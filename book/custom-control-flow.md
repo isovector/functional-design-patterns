@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: custom-control-flow
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- higher-order-functions
+- tools
+smaller: []
 see-also: []
-name: "flexibility"
+name: "custom-control-flow"
 teaser: ""
 ---
 

@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: unfolds
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- recursion-schemes
+smaller: []
 see-also: []
-name: "flexibility"
+name: "unfolds"
 teaser: ""
 ---
 

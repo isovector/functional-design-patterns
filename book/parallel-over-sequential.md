@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: parallel-over-sequential
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
+- data-dependency
+- pure-over-effectful
 smaller:
-- open-world-assumption
+- applicatives
+- monads
 see-also: []
-name: "flexibility"
+name: "parallel-over-sequential"
 teaser: ""
 ---
 

@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: forall
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- quantifiers
+smaller: []
 see-also: []
-name: "flexibility"
+name: "forall"
 teaser: ""
 ---
 

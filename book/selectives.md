@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: selectives
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- common-typeclasses
+- compose-type
+smaller: []
 see-also: []
-name: "flexibility"
+name: "selectives"
 teaser: ""
 ---
 

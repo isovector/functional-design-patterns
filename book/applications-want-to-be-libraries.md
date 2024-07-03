@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: applications-want-to-be-libraries
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- philosophy
 smaller:
-- open-world-assumption
+- monads-are-overused
 see-also: []
-name: "flexibility"
+name: "applications-want-to-be-libraries"
 teaser: ""
 ---
 

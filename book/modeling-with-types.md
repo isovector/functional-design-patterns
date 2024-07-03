@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: modeling-with-types
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- tools
+- totality
 smaller:
-- open-world-assumption
+- newtypes-over-aliases
+- smart-constructors
+- types
 see-also: []
-name: "flexibility"
+name: "modeling-with-types"
 teaser: ""
 ---
 

@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: cps
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- final-encodings
+- tricks
 smaller:
-- open-world-assumption
+- trampolining
 see-also: []
-name: "flexibility"
+name: "cps"
 teaser: ""
 ---
 

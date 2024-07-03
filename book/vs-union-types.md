@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: vs-union-types
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- antipatterns
+- coproducts
+smaller: []
 see-also: []
-name: "flexibility"
+name: "vs-union-types"
 teaser: ""
 ---
 

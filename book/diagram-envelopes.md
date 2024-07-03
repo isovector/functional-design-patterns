@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: diagram-envelopes
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- acccumulating-caches
+smaller: []
 see-also: []
-name: "flexibility"
+name: "diagram-envelopes"
 teaser: ""
 ---
 

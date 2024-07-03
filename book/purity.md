@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: purity
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- philosophy
 smaller:
-- open-world-assumption
+- effects
+- pure-over-effectful
+- sharing
+- structural-diffing
 see-also: []
-name: "flexibility"
+name: "purity"
 teaser: ""
 ---
 

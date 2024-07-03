@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: monoids
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-typeclasses
+- foldmaps
 smaller:
-- open-world-assumption
+- acccumulating-caches
+- function-monoids
+- validation
 see-also: []
-name: "flexibility"
+name: "monoids"
 teaser: ""
 ---
 

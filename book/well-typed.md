@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: well-typed
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- illegal-states-are-unrepresentable
 smaller:
-- open-world-assumption
+- types
 see-also: []
-name: "flexibility"
+name: "well-typed"
 teaser: ""
 ---
 

@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: common-iterations
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- the-best-abstractions-already-exist
 smaller:
-- open-world-assumption
+- foldmaps
+- maps
+- recursion-schemes
+- traversals
 see-also: []
-name: "flexibility"
+name: "common-iterations"
 teaser: ""
 ---
 

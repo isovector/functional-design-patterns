@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: newtypes-over-aliases
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- modeling-with-types
+smaller: []
 see-also: []
-name: "flexibility"
+name: "newtypes-over-aliases"
 teaser: ""
 ---
 

@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: yoneda-embeddings
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- asymptotic-improvement
+- theory
+- tricks
 smaller:
-- open-world-assumption
+- codensity
+- dlists
 see-also: []
-name: "flexibility"
+name: "yoneda-embeddings"
 teaser: ""
 ---
 

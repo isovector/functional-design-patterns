@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: what-not-how
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- philosophy
+smaller: []
 see-also: []
-name: "flexibility"
+name: "what-not-how"
 teaser: ""
 ---
 

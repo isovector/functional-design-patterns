@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: functors
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- common-typeclasses
+- compose-type
+- maps
+smaller: []
 see-also: []
-name: "flexibility"
+name: "functors"
 teaser: ""
 ---
 

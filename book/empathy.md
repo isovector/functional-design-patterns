@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: empathy
 confidence: 7
 tags: []
 bigger:
 - desiderata
-- simplicity
 smaller:
-- open-world-assumption
+- illegal-states-are-unrepresentable
+- laws
 see-also: []
-name: "flexibility"
+name: "empathy"
 teaser: ""
 ---
 

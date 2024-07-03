@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: open-world-assumption
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- flexibility
+- philosophy
 smaller:
-- open-world-assumption
+- only-local-coherence
 see-also: []
-name: "flexibility"
+name: "open-world-assumption"
 teaser: ""
 ---
 

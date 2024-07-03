@@ -1,14 +1,16 @@
 ---
-id: flexibility
+id: recursion-schemes
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-iterations
+- structural-programming
+- tools
 smaller:
-- open-world-assumption
+- folds
+- unfolds
 see-also: []
-name: "flexibility"
+name: "recursion-schemes"
 teaser: ""
 ---
 

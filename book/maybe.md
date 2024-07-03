@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: maybe
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- alternatives
+- common-types
 smaller:
-- open-world-assumption
+- partial-functions
 see-also: []
-name: "flexibility"
+name: "maybe"
 teaser: ""
 ---
 

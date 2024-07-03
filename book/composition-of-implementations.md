@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: composition-of-implementations
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- composition
 smaller:
-- open-world-assumption
+- combinator-libraries
 see-also: []
-name: "flexibility"
+name: "composition-of-implementations"
 teaser: ""
 ---
 

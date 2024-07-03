@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: structural-programming
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- structural-problems
+- tools
+- types
 smaller:
-- open-world-assumption
+- recursion-schemes
 see-also: []
-name: "flexibility"
+name: "structural-programming"
 teaser: ""
 ---
 

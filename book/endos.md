@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: endos
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- dlists
+- function-monoids
+smaller: []
 see-also: []
-name: "flexibility"
+name: "endos"
 teaser: ""
 ---
 

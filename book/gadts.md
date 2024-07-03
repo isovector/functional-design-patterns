@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: gadts
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- types
+smaller: []
 see-also: []
-name: "flexibility"
+name: "gadts"
 teaser: ""
 ---
 

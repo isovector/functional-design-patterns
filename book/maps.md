@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: maps
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-iterations
 smaller:
-- open-world-assumption
+- functors
 see-also: []
-name: "flexibility"
+name: "maps"
 teaser: ""
 ---
 

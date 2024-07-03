@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: isomorphisms
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- theory
 smaller:
-- open-world-assumption
+- there-and-back-again
 see-also: []
-name: "flexibility"
+name: "isomorphisms"
 teaser: ""
 ---
 

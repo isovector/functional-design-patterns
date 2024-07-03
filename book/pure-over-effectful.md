@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: pure-over-effectful
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
+- purity
 smaller:
-- open-world-assumption
+- parallel-over-sequential
 see-also: []
-name: "flexibility"
+name: "pure-over-effectful"
 teaser: ""
 ---
 

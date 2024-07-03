@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: foldmaps
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- common-iterations
 smaller:
-- open-world-assumption
+- monoids
 see-also: []
-name: "flexibility"
+name: "foldmaps"
 teaser: ""
 ---
 

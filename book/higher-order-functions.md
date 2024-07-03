@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: higher-order-functions
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- tools
 smaller:
-- open-world-assumption
+- custom-control-flow
+- precomposition
 see-also: []
-name: "flexibility"
+name: "higher-order-functions"
 teaser: ""
 ---
 

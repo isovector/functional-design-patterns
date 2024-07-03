@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: totality
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- concepts
+- illegal-states-are-unrepresentable
 smaller:
-- open-world-assumption
+- functions
+- modeling-with-types
 see-also: []
-name: "flexibility"
+name: "totality"
 teaser: ""
 ---
 

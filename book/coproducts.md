@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: coproducts
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- types
 smaller:
-- open-world-assumption
+- vs-union-types
 see-also: []
-name: "flexibility"
+name: "coproducts"
 teaser: ""
 ---
 

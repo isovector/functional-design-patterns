@@ -1,14 +1,13 @@
 ---
-id: flexibility
+id: existentials-as-arguments
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- antipatterns
+- existentializing
+smaller: []
 see-also: []
-name: "flexibility"
+name: "existentials-as-arguments"
 teaser: ""
 ---
 

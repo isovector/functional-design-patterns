@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: acccumulating-caches
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- monoids
+- tricks
 smaller:
-- open-world-assumption
+- diagram-envelopes
+- finger-trees
 see-also: []
-name: "flexibility"
+name: "acccumulating-caches"
 teaser: ""
 ---
 

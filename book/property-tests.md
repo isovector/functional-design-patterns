@@ -1,14 +1,15 @@
 ---
-id: flexibility
+id: property-tests
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- testing
 smaller:
-- open-world-assumption
+- algebraic-properties
+- laws
+- there-and-back-again
 see-also: []
-name: "flexibility"
+name: "property-tests"
 teaser: ""
 ---
 

@@ -1,14 +1,12 @@
 ---
-id: flexibility
+id: code-reifies-understanding
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
-smaller:
-- open-world-assumption
+- philosophy
+smaller: []
 see-also: []
-name: "flexibility"
+name: "code-reifies-understanding"
 teaser: ""
 ---
 

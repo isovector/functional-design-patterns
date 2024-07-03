@@ -1,14 +1,14 @@
 ---
-id: flexibility
+id: composition-of-functions
 confidence: 7
 tags: []
 bigger:
-- desiderata
-- simplicity
+- composition
+- functions
 smaller:
-- open-world-assumption
+- trampolining
 see-also: []
-name: "flexibility"
+name: "composition-of-functions"
 teaser: ""
 ---
 
