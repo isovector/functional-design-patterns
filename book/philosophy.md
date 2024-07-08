@@ -13,7 +13,7 @@ smaller:
 - understanding-before-implementation
 - what-not-how
 see-also: []
-name: "philosophy"
+name: "The Philosophy of Functional Programming"
 teaser: ""
 ---
 
