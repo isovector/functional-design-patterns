@@ -9,6 +9,7 @@ smaller:
 - composition-of-functions
 - composition-of-implementations
 - composition-of-understanding
+- types
 see-also: []
 name: "Composition"
 teaser: ""
@@ -88,7 +89,8 @@ always contain bugs and disorganized designs.**
 ---
 
 Use [composition-of-understanding]() to ensure your problem domain is
-comprehensible. Model the problem via [types](), and give the implementation in
-terms of [composition-of-implementations](). [composition-of-functions]() will
-play a large role in this. Ensure that each piece of the implementation does
-its job well, and rely on [composition-of-correctness]() to scale the system.
+comprehensible. Use [modeling-with-types]() to flesh out the meaningful
+interactions between parts, and give the implementation in terms of
+[composition-of-implementations](). [composition-of-functions]() will play
+a large role in this. Ensure that each piece of the implementation does its job
+well, and rely on [composition-of-correctness]() to scale the system.
